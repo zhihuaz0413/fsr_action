@@ -1,0 +1,1 @@
+ros2 action send_goal --feedback trigger_fsr fsr_interfaces/action/TriggerFsr "{show_flag: True, duration: 5, record_flag: True}"
